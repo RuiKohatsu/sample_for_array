@@ -3,7 +3,7 @@ public class ArrayPractice04 {
     public static void main(String[] args) {
         //配列作成
         int[] array = new int[10];
-
+        
         array[0] = 6;
         array[1] = 8;
         array[2] = 5;
