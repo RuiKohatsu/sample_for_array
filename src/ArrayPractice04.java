@@ -3,7 +3,7 @@ public class ArrayPractice04 {
     public static void main(String[] args) {
         //配列作成
         int[] array = new int[10];
-        
+
         array[0] = 6;
         array[1] = 8;
         array[2] = 5;
@@ -12,8 +12,8 @@ public class ArrayPractice04 {
         array[5] = 4;
         array[6] = 1;
         array[7] = 9;
-        array[8] = 7;
-        array[9] = 3;
+        array[8] = 3;
+        array[9] = 7;
 
         //アルゴリズム
         for(var j = 0; j < 9; j++) {
